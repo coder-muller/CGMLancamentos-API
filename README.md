@@ -15,8 +15,8 @@ Antes de iniciar, certifique-se de ter instalado:
 ## Instalação
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/coder-muller/fastify-api-boilerplate.git
-   cd fastify-api-boilerplate
+   git clone https://github.com/coder-muller/Fastify-Scalar-API-Template
+   cd Fastify-Scalar-API-Template
    ```
 2. Instale as dependências:
    ```sh
